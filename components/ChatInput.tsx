@@ -129,7 +129,10 @@ export default function ChatInput({ loading, onSend, onStop }: Props) {
           </button>
         )}
       </div>
-      <p className='hint'> AI can make mistakes · Created by Developer Asif Khan</p>
+      <p className='hint'>
+        {" "}
+        AI can make mistakes · Created by Developer Asif Khan
+      </p>
     </div>
   );
 }
