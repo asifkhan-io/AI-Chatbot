@@ -26,7 +26,6 @@ function loadConversations(): Conversation[] {
   }
   return [makeConversation()];
 }
-
 export function useChat() {
   const [conversations, setConversations] =
     useState<Conversation[]>(loadConversations);

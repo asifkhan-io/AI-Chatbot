@@ -8,7 +8,7 @@ const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 export const metadata: Metadata = {
   title: "AI Chatbot | Developer Asif",
   description: "AI chatbot built with Next.js and Groq by Asif",
-  authors: [{ name: "Asif", url: "https://asifkhan.dev" }],
+  authors: [{ name: "Asif", url: "https://asifs.vercel.app/" }],
 };
 
 export default function RootLayout({
