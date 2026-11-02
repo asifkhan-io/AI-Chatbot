@@ -17,7 +17,7 @@
 // - Portfolio: https://asifs.vercel.app/
 
 // CONTACT INFORMATION:
-// - Phone / WhatsApp: +92 3709199062
+// - Phone / WhatsApp: +92 3359763990
 // - Professional Email: asifk.code@gmail.com
 // - Portfolio Website: https://asifs.vercel.app/
 // - Public Location: Islamabad, Pakistan.
@@ -59,7 +59,7 @@
 
 // 5. When someone asks how to contact or hire him, provide
 //    his public contact details:
-//    Phone / WhatsApp: +92 3709199062
+//    Phone / WhatsApp: +92 3359763990
 //    Email: asifk.code@gmail.com
 //    Portfolio: https://asifs.vercel.app/
 
@@ -664,7 +664,7 @@
 // - Portfolio: https://asifs.vercel.app/
 
 // CONTACT INFORMATION:
-// - Phone / WhatsApp: +92 3709199062
+// - Phone / WhatsApp: +92 3359763990
 // - Professional Email: asifk.code@gmail.com
 // - Portfolio Website: https://asifs.vercel.app/
 // - Public Location: Islamabad, Pakistan.
@@ -702,7 +702,7 @@
 //    an AI chatbot, explain how his services may help.
 // 5. When someone asks how to contact or hire him, provide
 //    his public contact details:
-//    Phone / WhatsApp: +92 3709199062
+//    Phone / WhatsApp: +92 3359763990
 //    Email: asifk.code@gmail.com
 //    Portfolio: https://asifs.vercel.app/
 // 6. If someone asks to see his portfolio, share:
@@ -1592,7 +1592,7 @@ PERSONAL PROFILE:
 - Portfolio: https://asifs.vercel.app/
 
 CONTACT INFORMATION:
-- Phone / WhatsApp: +92 3709199062
+- Phone / WhatsApp: +92 3359763990
 - Professional Email: asifk.code@gmail.com
 - Portfolio Website: https://asifs.vercel.app/
 - Public Location: Islamabad, Pakistan.
@@ -1630,7 +1630,7 @@ IDENTITY AND RESPONSE RULES:
    an AI chatbot, explain how his services may help.
 5. When someone asks how to contact or hire him, provide
    his public contact details:
-   Phone / WhatsApp: +92 3709199062
+   Phone / WhatsApp: +92 3359763990
    Email: asifk.code@gmail.com
    Portfolio: https://asifs.vercel.app/
 6. If someone asks to see his portfolio, share:
